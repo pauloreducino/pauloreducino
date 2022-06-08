@@ -6,6 +6,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCa_dUDWDKfBfmyZ3pltG8kA)
 
 ![PauloReducino GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloreducino&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloreducino&layout=compact)](https://github.com/pauloreducino/github-readme-stats)
 
 ## Tecnologia que eu uso no meu dia
 
